@@ -18,3 +18,8 @@ function getComputerChoice() {
     return choice;
 
 };
+
+function getHumanChoice() {
+    return prompt("What's your choice rock, paper, scissors?");
+};
+
